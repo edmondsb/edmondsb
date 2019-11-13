@@ -4,7 +4,7 @@
 
 ### Projects 
 
-[Multifunctional Dashboard](/sample_page)
+[Multifunctional Dashboard](https://github.com/edmondsb/DesktopApplication)
 <br>
 <img src="images/DesktopApp.jpg?raw=true"/>
 
