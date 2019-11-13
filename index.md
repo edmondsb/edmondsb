@@ -9,7 +9,7 @@
 <img src="images/DesktopApp.jpg?raw=true"/>
 
 ---
-[Basic Calculator](/pdf/sample_presentation.pdf)
+[Basic Calculator](/)
 <br>
 <img src="images/Calculator.jpg?raw=true"/>
 
