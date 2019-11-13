@@ -9,7 +9,7 @@
 <img src="images/DesktopApp.jpg?raw=true"/>
 
 ---
-[Basic Calculator](/)
+[Basic Calculator](https://github.com/edmondsb/BasicCalculator)
 <br>
 <img src="images/Calculator.jpg?raw=true"/>
 
