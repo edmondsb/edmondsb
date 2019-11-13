@@ -5,7 +5,7 @@
 ### Projects 
 
 [Simple Calculator](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/DesktopApp.jpg?raw=true"/>
 
 ---
 [Multifunctional Dashboard](/pdf/sample_presentation.pdf)
