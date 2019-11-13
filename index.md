@@ -9,7 +9,7 @@
 
 ---
 [Basic Calculator](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Calculator.jpg?raw=true"/>
 
 ---
 [Project 3](http://example.com/)
