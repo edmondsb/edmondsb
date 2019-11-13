@@ -5,17 +5,16 @@
 ### Projects 
 
 [Multifunctional Dashboard](/sample_page)
+<br>
 <img src="images/DesktopApp.jpg?raw=true"/>
 
 ---
 [Basic Calculator](/pdf/sample_presentation.pdf)
+<br>
 <img src="images/Calculator.jpg?raw=true"/>
 
 ---
-[Project 3](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
 
 
 
