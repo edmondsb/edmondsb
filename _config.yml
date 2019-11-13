@@ -2,6 +2,7 @@ title: Ben Edmonds # your name (or website title) here
 logo: "/images/mountains.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Computer Science Student at Seattle Pacific University
+  <br><br>
   Experience involving data structures, object-oriented programing, graphical user interfaces, algorithms and efficiency
   Main Language C++
   Experience with Visual Studios, QT Development, Git
