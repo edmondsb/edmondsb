@@ -4,11 +4,11 @@
 
 ### Projects 
 
-[Simple Calculator](/sample_page)
+[Multifunctional Dashboard](/sample_page)
 <img src="images/DesktopApp.jpg?raw=true"/>
 
 ---
-[Multifunctional Dashboard](/pdf/sample_presentation.pdf)
+[Basic Calculator](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
