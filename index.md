@@ -8,9 +8,9 @@
 <br>
 Course 3220, Spring 2019
 <br>
-Qt with C++
+-Qt with C++
 <br>
-<Displayed current weather and traffic information using Web API's
+-Displayed current weather and traffic information using Web API's
 <br>
 <img src="images/DesktopApp.jpg?raw=true"/>
 
@@ -23,7 +23,7 @@ Qt with C++
 <br>
 Finite State Machine (FMS) and Model View Controller (MVC)
 <br>
-<img src="images/Calculator.jpg?" width= "500" height = "500"/>
+<img src="images/Calculator.jpg?" width= "500" height = "600"/>
 
 ---
 
