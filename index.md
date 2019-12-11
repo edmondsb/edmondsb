@@ -12,7 +12,7 @@ Course 3220, Spring 2019
 <br>
 -Displayed current weather and traffic information using Web API's
 <br>
-<img src="images/DesktopApp.jpg?raw=true"/>
+<img src="images/DesktopApp.jpg?" width = "500" height = "250"/>
 
 ---
 [Basic Calculator](https://github.com/edmondsb/BasicCalculator)
