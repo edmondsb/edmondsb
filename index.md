@@ -23,7 +23,7 @@ Course 3220, Spring 2019
 <br>
 -Finite State Machine (FMS) and Model View Controller (MVC)
 <br>
-<img src="images/Calculator.jpg?" width= "400" height = "500"/>
+<img src="images/Calculator.jpg?" width= "500" height = "600"/>
 
 ---
 
