@@ -6,12 +6,24 @@
 
 [Multifunctional Dashboard](https://github.com/edmondsb/DesktopApplication)
 <br>
+Course 3220, Spring 2019
+<br>
+Qt with C++
+<br>
+<Displayed current weather and traffic information using Web API's
+<br>
 <img src="images/DesktopApp.jpg?raw=true"/>
 
 ---
 [Basic Calculator](https://github.com/edmondsb/BasicCalculator)
 <br>
-<img src="images/Calculator.jpg?raw=true"/>
+Course 3220, Spring 2019
+<br>
+Qt with C++
+<br>
+Finite State Machine (FMS) and Model View Controller (MVC)
+<br>
+<img src="images/Calculator.jpg?" width= "50" height = "50"/>
 
 ---
 
