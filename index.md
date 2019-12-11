@@ -23,7 +23,7 @@ Qt with C++
 <br>
 Finite State Machine (FMS) and Model View Controller (MVC)
 <br>
-<img src="images/Calculator.jpg?" width= "50" height = "50"/>
+<img src="images/Calculator.jpg?" width= "500" height = "500"/>
 
 ---
 
