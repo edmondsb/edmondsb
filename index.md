@@ -10,7 +10,9 @@ Course 3220, Spring 2019
 <br>
 -Qt with C++
 <br>
--Displayed current weather and traffic information using Web API's
+-Multifunctional home/office Dashboard Application
+<br>
+- Use of Web API's and Qt Timer to provide relevate information
 <br>
 <img src="images/DesktopApp.jpg?" width = "500" height = "250"/>
 
