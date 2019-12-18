@@ -14,7 +14,7 @@
 <br>
 +Use of Web API's and Qt Timer to provide relevate information
 <br>
-<img src="images/DesktopApp.jpg?" width = "500" height = "250"/>
+<img src="images/DesktopApp.jpg?" width = "500" height = "350"/>
 
 ---
 [Basic Calculator](https://github.com/edmondsb/BasicCalculator)
