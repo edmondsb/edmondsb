@@ -8,9 +8,9 @@
 <br>
 Course 3220, Spring 2019
 <br>
--Qt with C++
+- Qt with C++
 <br>
--Multifunctional home/office Dashboard Application
+- Multifunctional home/office Dashboard Application
 <br>
 - Use of Web API's and Qt Timer to provide relevate information
 <br>
