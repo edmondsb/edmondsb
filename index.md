@@ -21,9 +21,11 @@
 <br>
 Course 3220, Spring 2019
 <br>
--Qt with C++
++Qt with C++
 <br>
--Finite State Machine (FMS) and Model View Controller (MVC)
++Finite State Machine (FMS) based application
+<br>
++Model View Controller (MVC) paradigm
 <br>
 <img src="images/Calculator.jpg?" width= "500" height = "600"/>
 
