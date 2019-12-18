@@ -6,7 +6,7 @@
 
 [Multifunctional Dashboard](https://github.com/edmondsb/DesktopApplication)
 <br>
-+Course 3220, Spring 2019
+Course 3220, Spring 2019
 <br>
 +Qt with C++
 <br>
