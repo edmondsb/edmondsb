@@ -34,6 +34,8 @@ Course 3150, Fall 2019
 +Example System Proposal for a pizza delivery system
 <br>
 +Written to increase understanding of the potential system to the client/developers 
+<br>
+<img src="images/CoverPage.jpg?" width= "500" height = "600"/>
 
 
 
