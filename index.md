@@ -27,7 +27,7 @@ Course 3220, Spring 2019
 <img src="images/Calculator.jpg?" width= "500" height = "600"/>
 
 ---
-[System Proposal](https://github.com/edmondsb/BasicCalculator)
+[System Proposal](https://github.com/edmondsb/System-Proposal)
 <br>
 Course 3150, Fall 2019
 <br>
