@@ -1,9 +1,6 @@
 ## Portfolio
 
 ---
-
-### Projects 
-
 [Multifunctional Dashboard](https://github.com/edmondsb/DesktopApplication)
 <br>
 Course 3220, Spring 2019
