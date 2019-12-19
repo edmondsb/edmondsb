@@ -11,7 +11,7 @@ Course 3220, Spring 2019
 <br>
 +Use of Web API's and Qt Timer to provide relevate information
 <br>
-<img src="images/DesktopApp.jpg?" width = "500" height = "350"/>
+<img src="images/DesktopApp.jpg?"/>
 
 ---
 [Basic Calculator](https://github.com/edmondsb/BasicCalculator)
@@ -35,7 +35,7 @@ Course 3150, Fall 2019
 <br>
 +Written to increase understanding of the potential system to the client/developers 
 <br>
-<img src="images/CoverPage.JPG?" width= "500" height = "600"/>
+<img src="images/CoverPage.JPG?"/>
 
 
 
