@@ -27,6 +27,14 @@ Course 3220, Spring 2019
 <img src="images/Calculator.jpg?" width= "500" height = "600"/>
 
 ---
+[System Proposal](https://github.com/edmondsb/BasicCalculator)
+<br>
+Course 3150, Fall 2019
+<br>
++Example System Proposal for a pizza delivery system
+<br>
++Written to increase understanding of the potential system to the client/developers 
+
 
 
 
